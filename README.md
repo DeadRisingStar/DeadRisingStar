@@ -18,9 +18,6 @@
  **<h3 align="left">🚀Im a developer. Just making things that probably already exist cause I did not see that it was already existing. I blame search engines. It is what it is. </h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Developing a new e-commerce platform using React and Node.js**
-- 🌱 I'm currently learning: **📚 Exploring Zustand**
 - 📂 Portfolio: **<a href="portfolio.deadrisingstar.com" target="_blank">portfolio.deadrisingstar.com</a>**
 - 📝 Blog: **<a href="blog.deadrisingstar.com" target="_blank">blog.deadrisingstar.com</a>**
 
